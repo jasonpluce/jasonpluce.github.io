@@ -19,7 +19,7 @@ PhD student in Computer Science at Loyola University Chicago working on applied 
 
 ### Interpretability for clinical-facing ML (in progress)
 - Studying interpretability and reliability assessment methods for clinical imaging ML.
-- Quantifying attribution consistency and alignment with image quality using Grad-CAM-style maps; reporting **Spearman ρ = [ ]** across **N = [ ]** slices.
+- Quantifying attribution consistency and alignment with image quality using Grad-CAM-style maps
 
 ## Selected publications
 - **First author.** Luce, J., et al. “[Use of a Deep Learning Neural Network to Generate Bone-Suppressed Images for Markerless Lung Tumor Tracking](https://doi.org/10.1002/mp.17949).” *Medical Physics* (2025). DOI: 10.1002/mp.17949
