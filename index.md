@@ -19,7 +19,7 @@ PhD student in Computer Science at Loyola University Chicago working on applied 
 - Emphasis on evaluation practices that support trustworthy use in clinical workflows.
 
 ## Selected publications
-- - **Luce, J.**, et al. “[Use of a Deep Learning Neural Network to Generate Bone-Suppressed Images for Markerless Lung Tumor Tracking](https://doi.org/10.1002/mp.17949).” *Medical Physics* (2025). DOI: 10.1002/mp.17949
+- **Luce, J.**, et al. “[Use of a Deep Learning Neural Network to Generate Bone-Suppressed Images for Markerless Lung Tumor Tracking](https://doi.org/10.1002/mp.17949).” *Medical Physics* (2025). DOI: 10.1002/mp.17949
 - **Luce, J.**, et al. “A CNN-Based Model Observer for Human-Aligned Image Quality Assessment of Synthetic Cone-Beam CT.” *Medical Physics* (under review, 2025).
 
 ## Links
