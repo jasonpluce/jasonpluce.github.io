@@ -33,3 +33,7 @@ header .view {
 header ul, header p {
   margin-bottom: 0.5rem;
 }
+/* Hide the default footer credit line */
+footer {
+  display: none !important;
+}
