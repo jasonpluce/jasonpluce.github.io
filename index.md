@@ -1,5 +1,3 @@
-# Jason Luce
-
 PhD student in Computer Science at Loyola University Chicago working on applied machine learning for medical imaging, with an emphasis on human-aligned image quality assessment and clinical validation.
 
 ## Research focus
