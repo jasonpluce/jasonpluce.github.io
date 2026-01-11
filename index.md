@@ -5,6 +5,7 @@ PhD student in Computer Science at Loyola University Chicago working on applied 
 ## Research focus
 - Medical imaging machine learning for reconstruction-adjacent enhancement, denoising, and synthesis
 - Human-aligned evaluation for image quality and clinical usability
+- Interpretability and reliability assessment for clinical-facing ML
 
 ## Selected publications
 - **Luce, J.** et al., “Use of a Deep Learning Neural Network to Generate Bone-Suppressed Images for Markerless Lung Tumor Tracking.” Medical Physics (2025).
