@@ -25,5 +25,5 @@ PhD student in Computer Science at Loyola University Chicago working on applied 
 ## Links
 - [Google Scholar](https://scholar.google.com/citations?user=YbMdk0IAAAAJ)
 - [LinkedIn](https://www.linkedin.com/in/jason-luce-184827143)
-- [CV (PDF)](https://jasonpluce.github.io/assets/Jason_Luce_CV.pdf)
+- [CV (PDF)](https://jasonpluce.github.io/Jason_Luce_Resume_2025.pdf)
 - [Email](mailto:jasonpluce@gmail.com)
