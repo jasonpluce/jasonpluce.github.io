@@ -10,7 +10,7 @@ PhD student in Computer Science at Loyola University Chicago working on applied 
 - Developed a deep learning model for bone-suppressed image synthesis to support markerless tracking.
 - Validated on phantom and patient imaging data; results reported in *Medical Physics* (2025).
 
-**CNN-based model observer for image quality**
+**CNN-based model observer for human-aligned image quality assessment**
 - Built CNN-based model observers to predict Likert-scale image quality scores from CBCT slices.
 - Focused on human-aligned evaluation and clinically grounded validation for scalable assessment.
 
